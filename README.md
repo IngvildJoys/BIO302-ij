@@ -6,3 +6,5 @@ Name?
 Sondre Olai Spjeld 
 What kind of scientist do you you tell people you are at dinner parties?
 Microbiologist 
+
+Klarer du å gi meg pullrequest? 
